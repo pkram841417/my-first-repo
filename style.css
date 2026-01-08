@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  border: 1px solid #333;
+}
